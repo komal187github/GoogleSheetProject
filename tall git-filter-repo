@@ -1,0 +1,23 @@
+[33m679f6b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Remove credentials file from Git
+src/main/resources/credentials.json
+[33mce645c0[m First Commit
+.gitattributes
+.gitignore
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+pom.xml
+src/main/java/com/test/ProjectTask/ProjectTaskApplication.java
+src/main/java/com/test/ProjectTask/controller/UserController.java
+src/main/java/com/test/ProjectTask/googlesheet/GoogleSheetWriter.java
+src/main/java/com/test/ProjectTask/googlesheet/GoogleSheetsService.java
+src/main/java/com/test/ProjectTask/model/User.java
+src/main/java/com/test/ProjectTask/service/EmailService.java
+src/main/java/com/test/ProjectTask/service/OtpService.java
+src/main/resources/application.properties
+src/main/resources/credentials.json
+src/main/resources/templates/error.html
+src/main/resources/templates/index.html
+src/main/resources/templates/result.html
+src/main/resources/templates/verify.html
+src/test/java/com/test/ProjectTask/ProjectTaskApplicationTests.java
